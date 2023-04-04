@@ -1,2 +1,5 @@
-package Minitest2;public class Discount {
+package Minitest2;
+
+public interface Discount {
+    double getRealMoney();
 }
